@@ -2,6 +2,7 @@
 
 ## Description:
 This is an USB HUB using the SL2.1A ic. Because it is so easy to do, I did not order the board.I wanted an ic with some interrupt or controll functions to connect it to a microcontroller.
+You can fing another similar schematic in the IC [datasheet](https://cdn-shop.adafruit.com/product-files/2991/1811151645_CoreChips-SL2-1A_C192893.pdf).
 
 ## Pinout: 
 - 8 data pins for the 4 downward ports;
