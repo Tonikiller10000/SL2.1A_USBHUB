@@ -13,7 +13,3 @@ You can fing another similar schematic in the IC [datasheet](https://cdn-shop.ad
 
 <img src="https://github.com/Tonikiller10000/SL2.1A_USBHUB/blob/main/hub1.png">
 <img src="https://github.com/Tonikiller10000/SL2.1A_USBHUB/blob/main/s1.png">
-
-## Links:
-SL2.1A datesheet(needs translation): https://cdn-shop.adafruit.com/product-files/2991/1811151645_CoreChips-SL2-1A_C192893.pdf 
-
